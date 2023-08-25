@@ -1,3 +1,12 @@
+"""
+project_2.py: druhý projekt do Engeto Online Python Akademie
+
+author: Václav Zmuda
+email: vaclav.zmuda@gmail.com
+discord: vaclav5301
+"""
+
+
 import csv
 import requests
 from bs4 import BeautifulSoup
