@@ -11,7 +11,7 @@ Skript potřebuje dva argumenty:
 
 # Příklad spouštění scriptu:
 
-python3 Election_Scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102" "beroun.csv"
+python3 project03.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2102" "beroun.csv"
 Výstupní soubor se uloží do stejné složky.
 
 pozn. Je nutné,aby argumenty při spouštění byly uvedeny v uvozovkách
